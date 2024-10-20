@@ -1,0 +1,15 @@
+h1/* can be any tag in html file like h1 or html but has to be a tag*/
+{
+    color: green;
+}
+
+html
+{
+background-color: aqua;
+
+}
+
+body
+{
+    font-style: italic;
+}
